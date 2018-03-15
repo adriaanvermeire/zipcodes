@@ -1,8 +1,7 @@
-const base = 'https://opzoeken-postcode.be/xxxx.json';
 const result = [];
 let i = 1000;
 const interval = setInterval(() => {
-  fetch(base.replace('xxxx', i))
+  fetch(`https://opzoeken-postcode.be/${i}.json`)
   .then(res => res.json())
   .then(json => {
     if(json.length) {
