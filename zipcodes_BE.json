@@ -1,12 +1,18 @@
 [
   {
-    "name": "Sinterklaas",
-    "zipcode": "0612",
-    "longitude": "",
-    "latitude": ""
+    "name": "Brussel",
+    "zipcode": "1000",
+    "longitude": "4.3299990000",
+    "latitude": "50.8300010000"
   },
   {
-    "name": "Laken (Bru.)",
+    "name": "Bruxelles",
+    "zipcode": "1000",
+    "longitude": "4.3299990000",
+    "latitude": "50.8300010000"
+  },
+  {
+    "name": "Laken",
     "zipcode": "1020",
     "longitude": "4.3462550000",
     "latitude": "50.8855540000"
@@ -102,25 +108,13 @@
     "latitude": "50.8733520000"
   },
   {
-    "name": "Neder-over-Heembeek (Bru.)",
+    "name": "Neder-over-Heembeek",
     "zipcode": "1120",
     "longitude": "4.3895830000",
     "latitude": "50.8984000000"
   },
   {
-    "name": "Neder-over-Heembeek (Bru.)",
-    "zipcode": "1120",
-    "longitude": "4.3895830000",
-    "latitude": "50.8984000000"
-  },
-  {
-    "name": "Neder-over-Heembeek (Bru.)",
-    "zipcode": "1120",
-    "longitude": "4.3895830000",
-    "latitude": "50.8984000000"
-  },
-  {
-    "name": "Haren (Bru.)",
+    "name": "Haren",
     "zipcode": "1130",
     "longitude": "4.4073990000",
     "latitude": "50.8919610000"
@@ -492,7 +486,7 @@
     "latitude": "50.6363660000"
   },
   {
-    "name": "Bomal (Br.W.)",
+    "name": "Bomal",
     "zipcode": "1367",
     "longitude": "4.8739730000",
     "latitude": "50.6680410000"
@@ -1878,6 +1872,12 @@
     "latitude": "51.3223730000"
   },
   {
+    "name": "Kempen",
+    "zipcode": "2300",
+    "longitude": "4.9496970000",
+    "latitude": "51.3223730000"
+  },
+  {
     "name": "Rijkevorsel",
     "zipcode": "2310",
     "longitude": "4.7604000000",
@@ -2500,18 +2500,6 @@
     "zipcode": "2960",
     "longitude": "4.5832720000",
     "latitude": "51.2927800000"
-  },
-  {
-    "name": "'s Gravenwezel'",
-    "zipcode": "2970",
-    "longitude": "4.5547450000",
-    "latitude": "51.2632080000"
-  },
-  {
-    "name": "Schilde",
-    "zipcode": "2970",
-    "longitude": "4.5834130000",
-    "latitude": "51.2319750000"
   },
   {
     "name": "Zoersel",
@@ -7260,7 +7248,7 @@
     "latitude": "50.4350150000"
   },
   {
-    "name": "Soye (Nam.)",
+    "name": "Soye",
     "zipcode": "5150",
     "longitude": "4.7304220000",
     "latitude": "50.4493040000"
@@ -7296,7 +7284,7 @@
     "latitude": "50.3884450000"
   },
   {
-    "name": "Arbre (Nam.)",
+    "name": "Arbre",
     "zipcode": "5170",
     "longitude": "4.8201550000",
     "latitude": "50.3662380000"
@@ -7446,7 +7434,7 @@
     "latitude": "50.5842880000"
   },
   {
-    "name": "Leuze (Nam.)",
+    "name": "Leuze",
     "zipcode": "5310",
     "longitude": "4.9099840000",
     "latitude": "50.5600880000"
@@ -7458,7 +7446,7 @@
     "latitude": "50.5841810000"
   },
   {
-    "name": "Longchamps (Nam.)",
+    "name": "Longchamps",
     "zipcode": "5310",
     "longitude": "4.8967470000",
     "latitude": "50.5772160000"
@@ -7482,7 +7470,7 @@
     "latitude": "50.5726930000"
   },
   {
-    "name": "Taviers (Nam.)",
+    "name": "Taviers",
     "zipcode": "5310",
     "longitude": "4.9307080000",
     "latitude": "50.6170580000"
@@ -7668,13 +7656,13 @@
     "latitude": "50.3876490000"
   },
   {
-    "name": "Jeneffe (Nam.)",
+    "name": "Jeneffe",
     "zipcode": "5370",
     "longitude": "5.2449510000",
     "latitude": "50.3553900000"
   },
   {
-    "name": "Porcheresse (Nam.)",
+    "name": "Porcheresse",
     "zipcode": "5370",
     "longitude": "5.2378370000",
     "latitude": "50.3374200000"
@@ -7716,7 +7704,7 @@
     "latitude": "50.3683730000"
   },
   {
-    "name": "Heure (Nam.)",
+    "name": "Heure",
     "zipcode": "5377",
     "longitude": "5.2958660000",
     "latitude": "50.2937630000"
@@ -7788,7 +7776,7 @@
     "latitude": "50.5201150000"
   },
   {
-    "name": "Hemptinne (Fernelmont)",
+    "name": "Hemptinne",
     "zipcode": "5380",
     "longitude": "4.9912010000",
     "latitude": "50.6005010000"
@@ -7950,7 +7938,7 @@
     "latitude": "50.3496750000"
   },
   {
-    "name": "Mont (Nam.)",
+    "name": "Mont",
     "zipcode": "5530",
     "longitude": "4.9014190000",
     "latitude": "50.3534710000"
@@ -8208,7 +8196,7 @@
     "latitude": "49.9018960000"
   },
   {
-    "name": "Bellefontaine (Nam.)",
+    "name": "Bellefontaine",
     "zipcode": "5555",
     "longitude": "4.9727820000",
     "latitude": "49.9177160000"
@@ -8256,7 +8244,7 @@
     "latitude": "50.1849760000"
   },
   {
-    "name": "Celles (Nam.)",
+    "name": "Celles",
     "zipcode": "5561",
     "longitude": "5.0079770000",
     "latitude": "50.2287830000"
@@ -8580,7 +8568,7 @@
     "latitude": "50.1051440000"
   },
   {
-    "name": "Neuville (Philippeville)",
+    "name": "Neuville",
     "zipcode": "5600",
     "longitude": "4.5261180000",
     "latitude": "50.1749440000"
@@ -8838,7 +8826,7 @@
     "latitude": "50.2649870000"
   },
   {
-    "name": "Clermont (Nam.)",
+    "name": "Clermont",
     "zipcode": "5650",
     "longitude": "4.3166530000",
     "latitude": "50.2602510000"
@@ -8934,7 +8922,7 @@
     "latitude": "50.0574820000"
   },
   {
-    "name": "Frasnes (Nam.)",
+    "name": "Frasnes",
     "zipcode": "5660",
     "longitude": "4.5089140000",
     "latitude": "50.0767420000"
@@ -9234,7 +9222,7 @@
     "latitude": "50.3247180000"
   },
   {
-    "name": "Marbaix (Ht.)",
+    "name": "Marbaix",
     "zipcode": "6120",
     "longitude": "4.3692590000",
     "latitude": "50.3269510000"
@@ -9564,7 +9552,7 @@
     "latitude": "50.0483270000"
   },
   {
-    "name": "Saint-Remy (Ht.)",
+    "name": "Saint-Remy",
     "zipcode": "6460",
     "longitude": "4.2971020000",
     "latitude": "50.0459170000"
@@ -9720,7 +9708,7 @@
     "latitude": "50.1919830000"
   },
   {
-    "name": "Strée (Ht.)",
+    "name": "Strée",
     "zipcode": "6511",
     "longitude": "4.2988360000",
     "latitude": "50.2766150000"
@@ -9918,7 +9906,7 @@
     "latitude": "49.9340030000"
   },
   {
-    "name": "Noville (Lux.)",
+    "name": "Noville",
     "zipcode": "6600",
     "longitude": "5.7605770000",
     "latitude": "50.0635750000"
@@ -10008,7 +9996,7 @@
     "latitude": "50.1581730000"
   },
   {
-    "name": "Mont (Lux.)",
+    "name": "Mont",
     "zipcode": "6661",
     "longitude": "5.7676990000",
     "latitude": "50.1537400000"
@@ -10110,7 +10098,7 @@
     "latitude": "50.0330270000"
   },
   {
-    "name": "Longchamps (Lux.)",
+    "name": "Longchamps",
     "zipcode": "6688",
     "longitude": "5.6905730000",
     "latitude": "50.0536040000"
@@ -10272,7 +10260,7 @@
     "latitude": "49.6772520000"
   },
   {
-    "name": "Bellefontaine (Lux.)",
+    "name": "Bellefontaine",
     "zipcode": "6730",
     "longitude": "5.4970380000",
     "latitude": "49.6658060000"
@@ -10326,7 +10314,7 @@
     "latitude": "49.6165620000"
   },
   {
-    "name": "Saint-Léger (Lux.)",
+    "name": "Saint-Léger",
     "zipcode": "6747",
     "longitude": "5.6546440000",
     "latitude": "49.6111030000"
@@ -11034,7 +11022,7 @@
     "latitude": "50.0887960000"
   },
   {
-    "name": "Porcheresse (Lux.)",
+    "name": "Porcheresse",
     "zipcode": "6929",
     "longitude": "5.0870920000",
     "latitude": "49.9778160000"
@@ -11448,7 +11436,7 @@
     "latitude": "50.4363130000"
   },
   {
-    "name": "Saint-Denis (Ht.)",
+    "name": "Saint-Denis",
     "zipcode": "7034",
     "longitude": "4.0181170000",
     "latitude": "50.4907670000"
@@ -11526,7 +11514,7 @@
     "latitude": "50.3624670000"
   },
   {
-    "name": "Masnuy-Saint-Jean (Jurbise)",
+    "name": "Masnuy-Saint-Jean",
     "zipcode": "7050",
     "longitude": "3.9402830000",
     "latitude": "50.5325970000"
@@ -11580,7 +11568,7 @@
     "latitude": "50.5153720000"
   },
   {
-    "name": "Casteau (Soignies)",
+    "name": "Casteau",
     "zipcode": "7061",
     "longitude": "4.0157230000",
     "latitude": "50.5133390000"
@@ -11658,7 +11646,7 @@
     "latitude": "50.4005700000"
   },
   {
-    "name": "Eugies (Frameries)",
+    "name": "Eugies",
     "zipcode": "7080",
     "longitude": "3.8878670000",
     "latitude": "50.3902900000"
@@ -11676,7 +11664,7 @@
     "latitude": "50.6085980000"
   },
   {
-    "name": "Steenkerque (Ht.)",
+    "name": "Steenkerque",
     "zipcode": "7090",
     "longitude": "4.0686540000",
     "latitude": "50.6430490000"
@@ -11784,7 +11772,7 @@
     "latitude": "50.3516990000"
   },
   {
-    "name": "Rouveroy (Ht.)",
+    "name": "Rouveroy",
     "zipcode": "7120",
     "longitude": "4.0654410000",
     "latitude": "50.3572410000"
@@ -12654,7 +12642,7 @@
     "latitude": "50.6672640000"
   },
   {
-    "name": "Saint-Léger (Ht.)",
+    "name": "Saint-Léger",
     "zipcode": "7730",
     "longitude": "3.3146840000",
     "latitude": "50.7054980000"
@@ -12762,19 +12750,37 @@
     "latitude": "50.6670180000"
   },
   {
-    "name": "Celles (Ht.)",
+    "name": "Celles",
     "zipcode": "7760",
     "longitude": "3.4573420000",
     "latitude": "50.7118880000"
   },
   {
-    "name": "Houthem (Comines)",
-    "zipcode": "7781",
-    "longitude": "2.9641050000",
-    "latitude": "50.7868610000"
+    "name": "Komen",
+    "zipcode": "7780",
+    "longitude": "2.9983000000",
+    "latitude": "50.7683850000"
   },
   {
-    "name": "Houthem (Komen)",
+    "name": "Comines",
+    "zipcode": "7780",
+    "longitude": "2.9983000000",
+    "latitude": "50.7683850000"
+  },
+  {
+    "name": "Komen-Waasten",
+    "zipcode": "7780",
+    "longitude": "2.9500630000",
+    "latitude": "50.7528130000"
+  },
+  {
+    "name": "Comines-Warneton",
+    "zipcode": "7780",
+    "longitude": "2.9500630000",
+    "latitude": "50.7528130000"
+  },
+  {
+    "name": "Houthem",
     "zipcode": "7781",
     "longitude": "2.9641050000",
     "latitude": "50.7868610000"
@@ -12796,30 +12802,6 @@
     "zipcode": "7784",
     "longitude": "2.9612710000",
     "latitude": "50.7587030000"
-  },
-  {
-    "name": "Waasten",
-    "zipcode": "7784",
-    "longitude": "2.9500630000",
-    "latitude": "50.7528130000"
-  },
-  {
-    "name": "Neerwaasten",
-    "zipcode": "7784",
-    "longitude": "2.9612710000",
-    "latitude": "50.7587030000"
-  },
-  {
-    "name": "Bas-Warneton",
-    "zipcode": "7784",
-    "longitude": "2.9612710000",
-    "latitude": "50.7587030000"
-  },
-  {
-    "name": "Warneton",
-    "zipcode": "7784",
-    "longitude": "2.9500630000",
-    "latitude": "50.7528130000"
   },
   {
     "name": "Waasten",
@@ -12888,7 +12870,7 @@
     "latitude": "50.6157970000"
   },
   {
-    "name": "Arbre (Ht.)",
+    "name": "Arbre",
     "zipcode": "7811",
     "longitude": "3.8142100000",
     "latitude": "50.6108290000"
@@ -12972,7 +12954,7 @@
     "latitude": "50.6112070000"
   },
   {
-    "name": "Hoves (Ht.)",
+    "name": "Hoves",
     "zipcode": "7830",
     "longitude": "4.0368400000",
     "latitude": "50.6713410000"
@@ -13218,7 +13200,7 @@
     "latitude": "50.6747370000"
   },
   {
-    "name": "Forest (Ht.)",
+    "name": "Forest",
     "zipcode": "7910",
     "longitude": "3.5366090000",
     "latitude": "50.6733280000"
@@ -13266,7 +13248,7 @@
     "latitude": "50.6433270000"
   },
   {
-    "name": "Moustier (Ht.)",
+    "name": "Moustier",
     "zipcode": "7911",
     "longitude": "3.6197650000",
     "latitude": "50.6552800000"
