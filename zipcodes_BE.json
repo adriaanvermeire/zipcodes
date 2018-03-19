@@ -1,5 +1,11 @@
 [
   {
+    "name": "Sinterklaas",
+    "zipcode": "0612",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
     "name": "Brussel",
     "zipcode": "1000",
     "longitude": "4.3299990000",
@@ -2500,6 +2506,18 @@
     "zipcode": "2960",
     "longitude": "4.5832720000",
     "latitude": "51.2927800000"
+  },
+  {
+    "name": "'s Gravenwezel'",
+    "zipcode": "2970",
+    "longitude": "4.5547450000",
+    "latitude": "51.2632080000"
+  },
+  {
+    "name": "Schilde",
+    "zipcode": "2970",
+    "longitude": "4.5834130000",
+    "latitude": "51.2319750000"
   },
   {
     "name": "Zoersel",
