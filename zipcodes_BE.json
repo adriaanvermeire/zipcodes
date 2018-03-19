@@ -12612,7 +12612,31 @@
     "latitude": "50.5681980000"
   },
   {
-    "name": "Dottignies/Dottenijs",
+    "name": "Moeskroen",
+    "zipcode": "7700",
+    "longitude": "3.2159340000",
+    "latitude": "50.7444420000"
+  },
+  {
+    "name": "Mouscron",
+    "zipcode": "7700",
+    "longitude": "3.2159340000",
+    "latitude": "50.7444420000"
+  },
+  {
+    "name": "Lowingen",
+    "zipcode": "7700",
+    "longitude": "3.2336360000",
+    "latitude": "50.7384880000"
+  },
+  {
+    "name": "Luingne",
+    "zipcode": "7700",
+    "longitude": "3.2336360000",
+    "latitude": "50.7384880000"
+  },
+  {
+    "name": "Dottignies",
     "zipcode": "7711",
     "longitude": "3.3030620000",
     "latitude": "50.7273350000"
@@ -12622,12 +12646,6 @@
     "zipcode": "7711",
     "longitude": "3.3030620000",
     "latitude": "50.7273350000"
-  },
-  {
-    "name": "Herseaux",
-    "zipcode": "7712",
-    "longitude": "3.2327610000",
-    "latitude": "50.7225360000"
   },
   {
     "name": "Herseaux",
