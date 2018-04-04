@@ -7,7 +7,7 @@ The data was collected using various sources. For Belgium I used two sources, be
 - Belgium: [geonames](http://www.geonames.org/postal-codes/codes-postaux-belgique.html) & [opzoeken-postcode](http://opzoeken-postcode.be)
 - The Netherlands: [geonames](http://www.geonames.org/postal-codes/postal-codes-netherlands.html)
 
-The data from _opzoeken-postcode_ was scraped using the script included in this repo.
+The Belgian zipcodes from _opzoeken-postcode_ were scraped using the script included in this repo.
 
 ## Usage
 Feel free to use this dataset or contribute to improve it!
