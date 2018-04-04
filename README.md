@@ -1,6 +1,13 @@
-# zipcodes-belgium
-Dataset containing all zipcodes from Belgium with their respective municipality and coordinates.
+# zipcodes
+Dataset containing all zipcodes from Belgium and The Netherlands with their respective municipality and coordinates. I've had some occurrences where a zipcode or municipality wasn't in the set, so if that's the case, feel free to file an issue and I'll see if I can add it!
 
-All the data was scraped from http://opzoeken-postcode.be using the script included in this repo. I created this dataset, because I couldn't find a dataset with coordinates and municipality names in both languages.
+## Sources
+The data was collected using various sources. For Belgium I used two sources, because I couldn't find one complete set that had all villages in the appropriate languages.
 
+- Belgium: [geonames](http://www.geonames.org/postal-codes/codes-postaux-belgique.html) & [opzoeken-postcode](http://opzoeken-postcode.be)
+- The Netherlands: [geonames](http://www.geonames.org/postal-codes/postal-codes-netherlands.html)
+
+The data from [opzoeken-postcode] was scraped using the script included in this repo.
+
+## Usage
 Feel free to use this dataset or contribute to improve it!
